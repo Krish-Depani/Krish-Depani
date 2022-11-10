@@ -17,4 +17,3 @@ Created a repository for [Data Structures](https://github.com/Krish-Depani/Data-
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/></code>
 <code><img height="30" src="https://img.icons8.com/color/48/000000/c-programming.png"/></code>
 <code><img height="30" src="https://img.icons8.com/fluent/48/000000/github.png"/></code>
-<code><img height="30" src="https://img.icons8.com/2266EE/mysql-logo.png"/></code>
