@@ -3,7 +3,7 @@
 
 I'm a Computer Science Student.  
 Worked on many different technologies such as python, machine learning, automation, etc.  
-Created a repository for [Data Structures](https://github.com/Krish-Depani/Data-Structure-Programs) written in C, [Telegram-Bot](https://github.com/Krish-Depani/Telegram-Bot) & [Virtual-Voice-Assistant](https://github.com/Krish-Depani/Virtual-Voice-Assistant) are my project repositories and other incldes my contribution.
+Created a repository for [Data Structures](https://github.com/Krish-Depani/Data-Structure-Programs) written in C & C++, [Telegram-Bot](https://github.com/Krish-Depani/Telegram-Bot) & [Virtual-Voice-Assistant](https://github.com/Krish-Depani/Virtual-Voice-Assistant) are my project repositories and other incldes my contribution.
 
 <p align="center">
   <img alt="Let's Code" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="26%">
