@@ -1,5 +1,5 @@
 ## Hey, myself Krish Depani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://github.com/Krish-Depani"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/Krish-Depani?&label=Follow&style=social" height="20px"/></a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krish-Depani&label=Profile%20views&color=0e75b6&style=flat" alt="Krish-Depani" /> </p>
 
 I'm a Computer Science Student.  
 Worked on many different technologies such as python, machine learning, automation, etc.  
@@ -31,6 +31,7 @@ Created a repository for [Data Structures](https://github.com/Krish-Depani/Data-
 >👍 Server Administration  
 >👍 Operating Systems  
 >👍 Backend Development  
+>👍 Software Development
 
 ### My Github Stats
 <p align="center">
