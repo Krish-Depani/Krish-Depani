@@ -1,8 +1,11 @@
 ## Hey, myself Krish Depani <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Krish-Depani&label=Profile%20views&color=0e75b6&style=flat" alt="Krish-Depani" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=Krish-Depani&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Krish-Depani"/> 
+  <img src="https://img.shields.io/github/stars/Krish-Depani?style=for-the-badge" alt="Krish-Depani"/>
+</p>
 
 I'm a Computer Science Student.  
-Worked on many different technologies such as python, machine learning, automation, etc.  
+Worked on many different technologies such as python, machine learning, automation, REST APIs, etc.  
 Created a repository for [Data Structures](https://github.com/Krish-Depani/Data-Structure-Programs) written in C & C++, [Telegram-Bot](https://github.com/Krish-Depani/Telegram-Bot) & [Virtual-Voice-Assistant](https://github.com/Krish-Depani/Virtual-Voice-Assistant) are my project repositories and other incldes my contribution.
 
 <p align="center">
