@@ -15,8 +15,17 @@ Created a repository for [Data Structures](https://github.com/Krish-Depani/Data-
 </p>
 
 ### Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=python,cpp,c,java,js,bash,github,git,mysql,linux,gcp)
 ![My Skills](https://skillicons.dev/icons?i=python)
+![My Skills](https://skillicons.dev/icons?i=cpp)
+![My Skills](https://skillicons.dev/icons?i=c)
+![My Skills](https://skillicons.dev/icons?i=java)
+![My Skills](https://skillicons.dev/icons?i=js)
+![My Skills](https://skillicons.dev/icons?i=bash)
+![My Skills](https://skillicons.dev/icons?i=github)
+![My Skills](https://skillicons.dev/icons?i=git)
+![My Skills](https://skillicons.dev/icons?i=mysql)
+![My Skills](https://skillicons.dev/icons?i=linux)
+![My Skills](https://skillicons.dev/icons?i=gcp)
 
 ### Interests
 >👍 Blockchain  
@@ -46,4 +55,4 @@ Created a repository for [Data Structures](https://github.com/Krish-Depani/Data-
 ![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Krish-Depani&theme=react-dark&hide_border=true&area=true)
 
 ### Connect with me on
-<a href="https://twitter.com/krishpatel99933" target="blank"><img align="center" src="https://skillicons.dev/icons?i=twitter" alt="Krish Depani" height="50" width="50" /></a>   <a href="https://in.linkedin.com/in/krish-depani-a162b01b5" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="Krish Depani" height="50" width="50" /></a>   <a href="https://t.me/krish_patel_03/" target="blank"><img align="center" src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-telegram-app.svg" alt="Krish Depani" height="60" width="60" /></a>   <a href="mailto:krishdepani@gmail.com" target="blank"><img align="center" src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-gmail.svg" alt="Krish Depani" height="65" width="65" /></a>
+<a href="https://twitter.com/krishpatel99933" target="blank"><img align="center" src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-twitter.svg" alt="Krish Depani" height="50" width="50" /></a>   <a href="https://in.linkedin.com/in/krish-depani-a162b01b5" target="blank"><img align="center" src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-linkedin.svg" alt="Krish Depani" height="50" width="50" /></a>   <a href="https://t.me/krish_patel_03/" target="blank"><img align="center" src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-telegram-app.svg" alt="Krish Depani" height="50" width="50" /></a>   <a href="mailto:krishdepani@gmail.com" target="blank"><img align="center" src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-gmail.svg" alt="Krish Depani" height="50" width="50" /></a>
