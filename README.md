@@ -16,6 +16,7 @@ Created a repository for [Data Structures](https://github.com/Krish-Depani/Data-
 
 ### Languages and Tools
 ![My Skills](https://skillicons.dev/icons?i=python,cpp,c,java,js,bash,github,git,mysql,linux,gcp)
+![My Skills](https://skillicons.dev/icons?i=python)
 
 ### Interests
 >👍 Blockchain  
