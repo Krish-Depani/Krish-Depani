@@ -21,10 +21,10 @@ Created a repository for [Data Structures](https://github.com/Krish-Depani/Data-
 <img src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-java.svg" alt="Krish Depani" height="50" width="50" /></a>
 <img src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-javascript.svg" alt="Krish Depani" height="50" width="50" /></a>
 <img src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-bash.svg" alt="Krish Depani" height="50" width="50" /></a>
-<img src="https://skillicons.dev/icons?i=github" alt="Krish Depani" height="50" width="50" /></a>
+<img src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-github.svg" alt="Krish Depani" height="50" width="50" /></a>
 <img src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-git.svg" alt="Krish Depani" height="50" width="50" /></a>
 <img src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-mysql-logo.svg" alt="Krish Depani" height="50" width="50" /></a>
-<img src="https://skillicons.dev/icons?i=linux" alt="Krish Depani" height="50" width="50" /></a>
+<img src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/debian-svgrepo-com.svg" alt="Krish Depani" height="45" width="45" /></a>
 <img src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-google-cloud.svg" alt="Krish Depani" height="50" width="50" /></a>
 
 ### Interests
