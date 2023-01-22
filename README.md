@@ -15,17 +15,17 @@ Created a repository for [Data Structures](https://github.com/Krish-Depani/Data-
 </p>
 
 ### Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=python)
-![My Skills](https://skillicons.dev/icons?i=cpp)
-![My Skills](https://skillicons.dev/icons?i=c)
-![My Skills](https://skillicons.dev/icons?i=java)
-![My Skills](https://skillicons.dev/icons?i=js)
-![My Skills](https://skillicons.dev/icons?i=bash)
-![My Skills](https://skillicons.dev/icons?i=github)
-![My Skills](https://skillicons.dev/icons?i=git)
-![My Skills](https://skillicons.dev/icons?i=mysql)
-![My Skills](https://skillicons.dev/icons?i=linux)
-![My Skills](https://skillicons.dev/icons?i=gcp)
+<img src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-python.svg" alt="Krish Depani" height="50" width="50" /></a>
+<img src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-c%2B%2B.svg" alt="Krish Depani" height="50" width="50" /></a>
+<img src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-c-programming.svg" alt="Krish Depani" height="50" width="50" /></a>
+<img src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-java.svg" alt="Krish Depani" height="50" width="50" /></a>
+<img src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-javascript.svg" alt="Krish Depani" height="50" width="50" /></a>
+<img src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-bash.svg" alt="Krish Depani" height="50" width="50" /></a>
+<img src="https://skillicons.dev/icons?i=github" alt="Krish Depani" height="50" width="50" /></a>
+<img src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-git.svg" alt="Krish Depani" height="50" width="50" /></a>
+<img src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-mysql-logo.svg" alt="Krish Depani" height="50" width="50" /></a>
+<img src="https://skillicons.dev/icons?i=linux" alt="Krish Depani" height="50" width="50" /></a>
+<img src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-google-cloud.svg" alt="Krish Depani" height="50" width="50" /></a>
 
 ### Interests
 >👍 Blockchain  
