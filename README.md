@@ -29,12 +29,8 @@ Created a repository for [Data Structures](https://github.com/Krish-Depani/Data-
 
 ### Interests
 >👍 Blockchain  
->👍 Artificial Intelligence  
->👍 Automation  
->👍 Server Administration  
->👍 Operating Systems  
->👍 Backend Development  
->👍 Software Development
+>👍 Web Developement  
+>👍 Backend Development
 
 ### My Github Stats
 <p align="center">
