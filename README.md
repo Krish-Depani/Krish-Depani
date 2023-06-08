@@ -4,9 +4,8 @@
   <img src="https://img.shields.io/github/stars/Krish-Depani?style=for-the-badge" alt="Krish-Depani"/>
 </p>
 
-I'm a Computer Science Student.  
-Worked on many different technologies such as python, machine learning, automation, REST APIs, etc.  
-Created a repository for [Data Structures](https://github.com/Krish-Depani/Data-Structure-Programs) written in C & C++, [Telegram-Bot](https://github.com/Krish-Depani/Telegram-Bot) & [Virtual-Voice-Assistant](https://github.com/Krish-Depani/Virtual-Voice-Assistant) are my project repositories and other incldes my contribution.
+I’m Computer Science student, a developer who enjoys learning new skills and technologies. I have experience in web development, bot development, and AI development. You can find my projects in my [repositories](https://github.com/Krish-Depani?tab=repositories).
+
 
 <p align="center">
   <img alt="Let's Code" src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="26%">
