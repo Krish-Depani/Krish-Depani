@@ -47,7 +47,7 @@ I’m Computer Science student, a developer who enjoys learning new skills and t
   </a>
 </p>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.cyclic.app/graph?username=Krish-Depani&theme=react-dark&hide_border=true&area=true)
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=Krish-Depani&theme=react-dark&hide_border=true&area=true)
 
 ### Connect with me on
 <a href="https://twitter.com/krishpatel99933" target="blank"><img align="center" src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-twitter.svg" alt="Krish Depani" height="50" width="50" /></a>   <a href="https://in.linkedin.com/in/krish-depani-a162b01b5" target="blank"><img align="center" src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-linkedin.svg" alt="Krish Depani" height="50" width="50" /></a>   <a href="https://t.me/krish_patel_03/" target="blank"><img align="center" src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-telegram-app.svg" alt="Krish Depani" height="50" width="50" /></a>   <a href="mailto:krishdepani@gmail.com" target="blank"><img align="center" src="https://github.com/Krish-Depani/Krish-Depani/blob/main/icons/icons8-gmail.svg" alt="Krish Depani" height="50" width="50" /></a>
