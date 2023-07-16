@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/stars/Krish-Depani?style=for-the-badge" alt="Krish-Depani"/>
 </p>
 
-I’m Computer Science student, a developer who enjoys learning new skills and technologies. I have experience in web development, bot development, and AI development. You can find my projects in my [repositories](https://github.com/Krish-Depani?tab=repositories).
+I’m Computer Science student, a developer who enjoys learning new skills and technologies. I have experience in web development, bot development, and AI. You can find my projects in [repositories](https://github.com/Krish-Depani?tab=repositories).
 
 
 <p align="center">
